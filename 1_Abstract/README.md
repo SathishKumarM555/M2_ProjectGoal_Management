@@ -1,1 +1,1 @@
-The mini project "Contact Management System" is a sample project for managing contact details.
+The mini project "Contact Management System" is a sample project for managing contact details.In this project you can add contacts, view contacts, edit contacts, search and delete contacts. You can list all saved contacts in alphabetical order.
