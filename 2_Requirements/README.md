@@ -39,4 +39,33 @@ Contact Management System is a simple mini project code in java.In this project 
 
 # High Level Requirements:
 
+1.Add New Contact - For the add new contact, the user can add new contact information
+
+2.List All Contact - For the list all contact, the user can view all new contacts added
+
+3.Search Contact - For the search contact, the user can search through name
+
+4.Delete Contact - For the delete contact, the user can delete the contact information
+
+5.Exit - For the exit, the user can also exit in the system
+
+
 # Low Level Requirements:
+
+ . Add New Contact
+
+      1.Add Name
+
+      2.Add phone number
+
+ . Search Contact
+    
+      1.User contact no
+
+      2.User name
+    
+ . Delete Contact
+  
+      1.User's name
+
+      2.User's Contact no
