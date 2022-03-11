@@ -16,12 +16,27 @@ Contact Management System is a simple mini project code in java.In this project 
 # 4W's and 1H's
 
 1.WHO
+
       User can manage the contacts data of add contact,edit and delete.
+
 2.WHAT
+
       Its made for store contacts and edit contacts.
+
 3.WHERE
+
       The user can access the contact management system using any java compiler.
+
 4.WHY
+
       This application helps the user to add contacts,delete and edit contact.
+
 5.HOW
+
       The implementation of this application is done using java programming language.
+
+# DETAIL REQUIREMENTS:
+
+# High Level Requirements:
+
+# Low Level Requirements:
